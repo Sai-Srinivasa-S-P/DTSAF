@@ -5,8 +5,13 @@ This project is about applications of data science in food industry.This project
 
 Team Members:
 Rohith Reddy Peddi
+
 Abhishict Pamula
+
 Gowtham Dasappa
+
 Bhuvanendra Putchala
+
 Sai Srinivasa S P
+
 Venkat
